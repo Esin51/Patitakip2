@@ -159,6 +159,8 @@ Swagger arayüzü:
 <img width="1919" height="968" alt="Ekran görüntüsü 2026-01-13 032541" src="https://github.com/user-attachments/assets/c12d4cbb-6aa9-40f7-a311-a3cfca45146d" />
 <img width="1319" height="874" alt="Ekran görüntüsü 2026-01-13 050420" src="https://github.com/user-attachments/assets/41e70027-2bd0-4ee9-8676-177be14c5c40" />
 <img width="1214" height="820" alt="Ekran görüntüsü 2026-01-13 050147" src="https://github.com/user-attachments/assets/172b1a31-2ecd-45ec-adc6-072bef3f59d4" />
+<img width="939" height="728" alt="Ekran görüntüsü 2026-01-13 044830" src="https://github.com/user-attachments/assets/19438639-9f5c-4c43-8afc-5530d7295e37" />
+<img width="943" height="883" alt="Ekran görüntüsü 2026-01-13 043437" src="https://github.com/user-attachments/assets/bee840d3-372a-44c1-ac35-fd50eb037845" />
 
 
 
