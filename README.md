@@ -79,7 +79,6 @@ Kayıt sahipliği `createdBy` alanı üzerinden kontrol edilmektedir.
 - API isteklerinde `x-user-id` header olarak gönderilir
 
 <img width="925" height="903" alt="Ekran görüntüsü 2026-01-14 181444" src="https://github.com/user-attachments/assets/d3297ea0-85ed-4b87-a65b-721f21ea4941" />
-<img width="1895" height="903" alt="Ekran görüntüsü 2026-01-14 171035" src="https://github.com/user-attachments/assets/2c261df1-9584-4230-9dff-1c7c33010393" />
 
 ---
 
@@ -124,7 +123,8 @@ NoSQL tercih edilme nedenleri:
 - Admin tüm kayıtları silebilir
 
 <img width="1902" height="910" alt="Ekran görüntüsü 2026-01-14 171052" src="https://github.com/user-attachments/assets/48a8080d-b71f-4409-880a-ac7bbd8f098a" />
-<img width="1902" height="910" alt="Ekran görüntüsü 2026-01-14 171052 - Kopya" src="https://github.com/user-attachments/assets/d620a816-f0c4-49ed-a01d-3d088685997c" />
+<img width="548" height="694" alt="Ekran görüntüsü 2026-01-14 182938" src="https://github.com/user-attachments/assets/a5e52f1f-065c-465c-873c-d52753be1395" />
+
 
 ---
 
@@ -184,8 +184,9 @@ Performans testleri Artillery kullanılarak yapılmıştır.
 - Yüksek kullanıcı yükü
 - Response time artışı gözlemlenmiştir
 
-[SCREENSHOT: Artillery load test çıktısı]  
-[SCREENSHOT: Artillery stress test çıktısı]
+<img width="1169" height="153" alt="Ekran görüntüsü 2026-01-13 225454" src="https://github.com/user-attachments/assets/8c45fb6a-ea9b-4848-9a9d-bca4b4f26733" />
+<img width="1313" height="816" alt="Ekran görüntüsü 2026-01-13 223426" src="https://github.com/user-attachments/assets/34b197e4-ba8b-4ca2-9d83-382f527b12ef" />
+
 
 ---
 
@@ -202,10 +203,9 @@ MongoDB index kullanımının sorgu performansına etkisini gözlemlemek.
 
 MongoDB indexleri B-Tree tabanlıdır.
 
-[SCREENSHOT: Index tanımı]  
-[SCREENSHOT: Index öncesi test sonucu]  
-[SCREENSHOT: Index sonrası test sonucu]  
-[SCREENSHOT: Karşılaştırma grafiği]
+<img width="1156" height="751" alt="Ekran görüntüsü 2026-01-13 214433" src="https://github.com/user-attachments/assets/42eb0f59-0742-4ca3-a5e0-1c6538cf654f" />
+<img width="1191" height="769" alt="Ekran görüntüsü 2026-01-13 214102" src="https://github.com/user-attachments/assets/159e4850-3038-4505-9aa0-c15d1ca08bb6" />
+
 
 ---
 
