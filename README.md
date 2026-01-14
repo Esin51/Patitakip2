@@ -1,4 +1,3 @@
-# Patitakip
 # 🐾 Pati Takip Sistemi (Web GIS Final Projesi)
 
 **Ders:** Web GIS  
